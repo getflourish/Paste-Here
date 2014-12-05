@@ -1,0 +1,6 @@
+// (control v)
+
+var action = doc.actionWithName("MSCanvasActions");
+if (action) {
+	action.pasteHere(null);
+}
