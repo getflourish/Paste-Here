@@ -1,4 +1,4 @@
-Paste-Here
+Paste Here Sketch Plugin
 ==========
 
 Pastes layers to the current mouse position.
